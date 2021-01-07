@@ -1,11 +1,104 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.468847, 36.679158]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "1",
+                "status":true
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.459578, 36.671173]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "2",
+                "status":false
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.481808, 36.663118]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "3",
+                "status":true
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.527985, 36.652789]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "4",
+                "status":true
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.521719, 36.669452]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "5",
+                "status":false
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.511333, 36.675923]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "6",
+                "status":true
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.486443, 36.682393]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "7",
+                "status":false
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.496742, 36.666216]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "8",
+                "status":false
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.484468, 36.673031]
+            },
+            "type": "Feature",
+            "properties": {
+                "username": "9",
+                "status":true
+            }
+        }
+    ]
 }
